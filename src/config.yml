@@ -1,0 +1,9 @@
+sign:
+    - '&1{player}'
+    - '&0Slain by:'
+    - '&4{killer}'
+    - '&1{date}'
+sign_inventory_hover:
+    - '&r&6Player: &c{player}'
+    - '&r&6Slain by: &c{killer}'
+    - '&r&6Date: &c{date}'

@@ -1,0 +1,5 @@
+name: DeathSign
+version: 1.0.0
+description: Drops a sign with the killers name
+author: Chiller
+main: me.chiller.deathsign.DeathSign
